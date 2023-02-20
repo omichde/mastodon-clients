@@ -8,32 +8,31 @@ Each client fullfills the basic features like a timeline view of each account, a
 
 ## General
 
-|                      | Ice Cubes                                         | Ivory                       | Metatext                                  | Mammoth                        | Mercury | Mast | Mastoot | tooot | Toot! | Tusker | Woolly |
-| -------------------- | ------------------------------------------------- | --------------------------- | ----------------------------------------- | ------------------------------ | ------- | ---- | ------- | ----- | ----- | ------ | ------ |
-| Tab Bar              | Timeline, Notifications, Search, Messages, Profil | 5 customizable Icons        | TImeline, Search, Notifications, Messages | 5 customizable Icons + Profile |         |      |         |       |       |        |        |
-| Navigation Bar       | Settings, Source, Post                            | Settings, Source, Search(-) | Settings, 3 Sources                       | Search(?), Source, Post        |         |      |         |       |       |        |        |
-| Button to write/post | + top-right in navigation bar                     | - FAB                       | - FAB                                     | + top-right in navigation bar  |         |      |         |       |       |        |        |
+|                      | Ice Cubes                                         | Ivory                       | Metatext                                  | Mammoth                                        | Mercury | Mast | Mastoot | tooot | Toot! | Tusker | Woolly |
+| -------------------- | ------------------------------------------------- | --------------------------- | ----------------------------------------- | ---------------------------------------------- | ------- | ---- | ------- | ----- | ----- | ------ | ------ |
+| Tab Bar              | Timeline, Notifications, Search, Messages, Profil | 5 customizable Icons        | TImeline, Search, Notifications, Messages | 5 customizable Icons + Profile                 |         |      |         |       |       |        |        |
+| Navigation Bar       | Settings, Source, Post                            | Settings, Source, Search(-) | Settings, 3 Sources                       | Search(?), Source, Post                        |         |      |         |       |       |        |        |
+| Button to write/post | top-right in navigation bar :white_check_mark:    | FAB :warning:               | FAB :warning:                             | top-right in navigation bar :white_check_mark: |         |      |         |       |       |        |        |
 
 ## Timeline
 
-|                                    | Ice Cubes                               | Ivory                                                      | Metatext                      | Mammoth                       | Mercury | Mast | Mastoot | tooot | Toot! | Tusker | Woolly |
-| ---------------------------------- | --------------------------------------- | ---------------------------------------------------------- | ----------------------------- | ----------------------------- | ------- | ---- | ------- | ----- | ----- | ------ | ------ |
-| Sync on Launch                     | :white_check_mark:                      | ++ fast prefetching (likely in the background) and refresh | :white_check_mark:            | :white_check_mark:            |         |      |         |       |       |        |        |
-| Count of unread post               | top-right, tap jumps one page           | top-right, tap hides counter                               | "new toots", tap jumps to now | top-right, tap jumps one page |         |      |         |       |       |        |        |
-| Tap title jumps to now             | :white_check_mark:                      | :white_check_mark:                                         | :white_check_mark:            | :white_check_mark:            |         |      |         |       |       |        |        |
-| Re-tap on title jumps to last read | :X:                                     | :white_check_mark:                                         | :X:                           | :X:                           |         |      |         |       |       |        |        |
-| Scrolling behaviour                | haptics for passing each post :warning: | fast scrolling :zap:                                       | :white_check_mark:            | :zap:                         |         |      |         |       |       |        |        |
+|                                    | Ice Cubes                               | Ivory                                 | Metatext                      | Mammoth                       | Mercury | Mast | Mastoot | tooot | Toot! | Tusker | Woolly |
+| ---------------------------------- | --------------------------------------- | ------------------------------------- | ----------------------------- | ----------------------------- | ------- | ---- | ------- | ----- | ----- | ------ | ------ |
+| Sync on Launch                     | :white_check_mark:                      | fast (pre-)fetching and refresh :zap: | :white_check_mark:            | :white_check_mark:            |         |      |         |       |       |        |        |
+| Count of unread post               | top-right, tap jumps one page           | top-right, tap hides counter          | "new toots", tap jumps to now | top-right, tap jumps one page |         |      |         |       |       |        |        |
+| Tap title jumps to now             | :white_check_mark:                      | :white_check_mark:                    | :white_check_mark:            | :white_check_mark:            |         |      |         |       |       |        |        |
+| Re-tap on title jumps to last read | :X:                                     | :white_check_mark:                    | :X:                           | :X:                           |         |      |         |       |       |        |        |
+| Scrolling behaviour                | haptics for passing each post :warning: | fast scrolling :zap:                  | :white_check_mark:            | :zap:                         |         |      |         |       |       |        |        |
 
 ## Entry
 
-|                     | Ice Cubes                                             | Ivory                                                                               | Metatext                                                         | Mammoth                                                          | Mercury | Mast | Mastoot | tooot | Toot! | Tusker | Woolly |
-| ------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- | ------- | ---- | ------- | ----- | ----- | ------ | ------ |
-| vertical content    | (sender), author (+ actions) , text, preview, actions | (sender), author, text, preview, actions                                            | (sender), author, text, preview, actions                         | - author, text, preview, actions, (sender)                       |         |      |         |       |       |        |        |
-| horizontal content  | ++ wide, images are fully visible                     | + author icon column, images with max height, preview is cut off                    | + author icon column, images with max height, preview is cut off | + author icon column, images with max height, preview is cut off |         |      |         |       |       |        |        |
-| Text length limited |                                                       | ~500 chars, then tap to see complete post in thread view                            |                                                                  |                                                                  |         |      |         |       |       |        |        |
-| bottom-cell actions |                                                       |                                                                                     |                                                                  |                                                                  |         |      |         |       |       |        |        |
-| action icons        | - outline icons                                       | -- 4 actions, "gear" submenu, custom outline icons with cutouts (hard to recognize) | - 4 outline icons, "..." submenu                                 | - 3 outline icons, "..." submenu                                 |         |      |         |       |       |        |        |
-| counter at icons    | +                                                     | +                                                                                   | +                                                                | +                                                                |         |      |         |       |       |        |        |
+|                     | Ice Cubes                                             | Ivory                                                                                 | Metatext                                                                          | Mammoth                                                                           | Mercury | Mast | Mastoot | tooot | Toot! | Tusker | Woolly |
+| ------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------- | ---- | ------- | ----- | ----- | ------ | ------ |
+| vertical content    | (sender), author (+ actions) , text, preview, actions | (sender), author, text, preview, actions                                              | (sender), author, text, preview, actions                                          | - author, text, preview, actions, (sender)                                        |         |      |         |       |       |        |        |
+| horizontal content  | wide, images are fully visible :hearts:               | author icon column, images with max height, preview is cut off :white_check_mark:     | author icon column, images with max height, preview is cut off :white_check_mark: | author icon column, images with max height, preview is cut off :white_check_mark: |         |      |         |       |       |        |        |
+| Text length limited |                                                       | ~500 chars, then tap to see complete post in thread view                              |                                                                                   |                                                                                   |         |      |         |       |       |        |        |
+| action icons        | outline icons :warning:                               | 4 actions, "gear" submenu, custom outline icons with cutouts (hard to recognize) :-1: | 4 outline icons, "..." submenu :warning:                                          | 3 outline icons, "..." submenu :warning:                                          |         |      |         |       |       |        |        |
+| counter at icons    | :white_check_mark:                                    | :white_check_mark:                                                                    | :white_check_mark:                                                                | :white_check_mark:                                                                |         |      |         |       |       |        |        |
 
 ## External Content
 
@@ -57,5 +56,12 @@ Each client fullfills the basic features like a timeline view of each account, a
 |   |           |       |          |         |         |      |         |       |       |        |        |
 
 ## Notes
+
+:zap:
+:hearts:
+:white_check_mark:
+:warning:
+:-1:
+:X:
 
 (c) oliver@werk01.de
