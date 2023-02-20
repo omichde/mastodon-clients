@@ -16,13 +16,13 @@ Each client fullfills the basic features like a timeline view of each account, a
 
 ## Timeline
 
-|                                    | Ice Cubes                        | Ivory                                                      | Metatext                      | Mammoth                       | Mercury | Mast | Mastoot | tooot | Toot! | Tusker | Woolly |
-| ---------------------------------- | -------------------------------- | ---------------------------------------------------------- | ----------------------------- | ----------------------------- | ------- | ---- | ------- | ----- | ----- | ------ | ------ |
-| Sync on Launch                     | :white_check_mark:               | ++ fast prefetching (likely in the background) and refresh | :white_check_mark:            | :white_check_mark:            |         |      |         |       |       |        |        |
-| Count of unread post               | top-right, tap jumps one page    | top-right, tap hides counter                               | "new toots", tap jumps to now | top-right, tap jumps one page |         |      |         |       |       |        |        |
-| Tap title jumps to now             | :white_check_mark:               | :white_check_mark:                                         | :white_check_mark:            | :white_check_mark:            |         |      |         |       |       |        |        |
-| Re-tap on title jumps to last read | -                                | +                                                          | -                             | -                             |         |      |         |       |       |        |        |
-| Scrolling behaviour                | -- haptics for passing each post | ++ fast scrolling                                          | +                             | ++                            |         |      |         |       |       |        |        |
+|                                    | Ice Cubes                               | Ivory                                                      | Metatext                      | Mammoth                       | Mercury | Mast | Mastoot | tooot | Toot! | Tusker | Woolly |
+| ---------------------------------- | --------------------------------------- | ---------------------------------------------------------- | ----------------------------- | ----------------------------- | ------- | ---- | ------- | ----- | ----- | ------ | ------ |
+| Sync on Launch                     | :white_check_mark:                      | ++ fast prefetching (likely in the background) and refresh | :white_check_mark:            | :white_check_mark:            |         |      |         |       |       |        |        |
+| Count of unread post               | top-right, tap jumps one page           | top-right, tap hides counter                               | "new toots", tap jumps to now | top-right, tap jumps one page |         |      |         |       |       |        |        |
+| Tap title jumps to now             | :white_check_mark:                      | :white_check_mark:                                         | :white_check_mark:            | :white_check_mark:            |         |      |         |       |       |        |        |
+| Re-tap on title jumps to last read | :X:                                     | :white_check_mark:                                         | :X:                           | :X:                           |         |      |         |       |       |        |        |
+| Scrolling behaviour                | haptics for passing each post :warning: | fast scrolling :zap:                                       | :white_check_mark:            | :zap:                         |         |      |         |       |       |        |        |
 
 ## Entry
 
