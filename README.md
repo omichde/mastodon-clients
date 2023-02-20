@@ -51,9 +51,9 @@ Each client fullfills the basic features like a timeline view of each account, a
 
 ## App-info
 
-|   | Ice Cubes | Ivory | Metatext | Mammoth | Mercury | Mast | Mastoot | tooot | Toot! | Tusker | Woolly |
-| - | --------- | ----- | -------- | ------- | ------- | ---- | ------- | ----- | ----- | ------ | ------ |
-|   |           |       |          |         |         |      |         |       |       |        |        |
+| Ice Cubes | Ivory | Metatext | Mammoth | Mercury | Mast | Mastoot | tooot | Toot! | Tusker | Woolly |
+| --------- | ----- | -------- | ------- | ------- | ---- | ------- | ----- | ----- | ------ | ------ |
+| https://github.com/Dimillian/IceCubesApp | https://tapbots.com/ivory/ | https://metabolist.org | https://www.getmammoth.app | https://onmercury.app | https://apps.apple.com/us/app/mast-for-mastodon/id1437429129 | https://mastoot.app | https://apps.apple.com/us/app/tooot-fediverse-and-mastodon/id1549772269 | https://apps.apple.com/app/toot/id1229021451?ls=1 | https://vaccor.space/tusker/ | https://testflight.apple.com/join/2LVAJQTP |
 
 ## Notes
 
